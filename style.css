@@ -823,3 +823,10 @@ nav .fas {
     margin-right: 26px;  
   }
 }
+
+@media only screen and (max-width: 320px ){
+  .contact-right form textarea{
+      
+      min-width: 235px;
+    }
+  }
