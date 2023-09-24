@@ -824,7 +824,7 @@ nav .fas {
   }
 }
 
-@media only screen and (max-width: 320px ){
+@media only screen and (max-width: 400px ){
   .contact-right form textarea{
       
       min-width: 235px;
